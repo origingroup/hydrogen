@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-     Crazy and simple task, node, todo management desktop app
+     Crazy and simple task, note, todo management desktop app
 </p>
 <br/>
 
