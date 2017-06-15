@@ -15,7 +15,7 @@
 
 So what is Hydrogen? What can you do with it? 
 
-Let me explain,  I create Hydrogen for my personal projects and todos, tasks, notes for everyday.  There are so many options for todo and note apps,  But I just got tired and frustrated, I cant find extractly what I want to work wit. My needs are:
+Let me explain,  I create Hydrogen for my personal projects and todos, tasks, notes for everyday.  There are so many options for todo and note apps,  But I just got tired and frustrated, I cant find exactly what I want to work wit. My needs are:
 
 * A tree structure list to contain my tasks or todos. 
 * Tasks should have child tasks, child tasks can also have child tasks. 
