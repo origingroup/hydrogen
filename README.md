@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-     Crazy and simple task, note, todo management desktop app
+    A Git Based Task, Note, Todo Management Tool
 </p>
 <br/>
 
